@@ -31,13 +31,14 @@ Inside your project, create a screens folder and add:
 Login.js (login page)
 
 Home.js (digital clock page)
+step 5: update App.js
 
-Step 5: Install Required Packages
+Step 6: Install Required Packages
 
 npm install @react-navigation/native
 npm install @react-navigation/stack
 npx expo install react-native-screens react-native-safe-area-context
 
-Step 6: Run the App
+Step 7: Run the App
 
     npx expo start
